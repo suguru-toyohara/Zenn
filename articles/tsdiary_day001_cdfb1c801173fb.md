@@ -3,7 +3,7 @@ title: "Zennで勉強記録を始めてみた。 #ts勉強ログ001"
 emoji: "🍰"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["zenn","TypeScript"]
-published: false
+published: true
 ---
 
 # Zennについて学ぶ
