@@ -1,3 +1,3 @@
-# Zenn CLI
+# Zenn Article Repository
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+https://zenn.dev/suguru_toyohara
