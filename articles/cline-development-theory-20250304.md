@@ -3,7 +3,7 @@ title: "アジャイルに次ぐ第3の開発手法、ハイウェイモデル�
 emoji: "📚"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["cline", "claude", "開発手法"]
-published: false
+published: true
 ---
 
 
